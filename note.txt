@@ -1,0 +1,9 @@
+OJT - TEJASWI
+--------------
+
+1. What is cherry-pick?
+
+--> # Cherry picking is the act of picking a commit from a branch and applying it to another. git cherry-pick can be useful for undoing changes. 
+      For example, say a commit is accidently made to the wrong branch. You can switch to the correct branch and cherry-pick the commit to where it should belong.
+
+    # With the "cherry-pick" command, Git allows you to integrate selected, individual commits from any branch into your current HEAD branch.
