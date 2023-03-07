@@ -1,3 +1,5 @@
 # Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
 # Python supports object-oriented language and concepts of classes and objects come into existence.
+
+# python is interpreter language.
