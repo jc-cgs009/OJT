@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 # Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+=======
+# Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+
+# One of the prime characteristics of go programming language is its concurrency support.
+
+# go-lang uses pointer concept
+>>>>>>> 208e5ce (3 point added in golang)
